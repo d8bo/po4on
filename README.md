@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![kusaoisii's github stats](https://github-readme-stats.vercel.app/api?username=kusaoisii&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kusaoisii&hide=html&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
